@@ -41,6 +41,13 @@ def create_table(db,dbname,data,name):
         value.append(f'{key} {infer_mysql_type(value)}')
     db.create_table(dbname,name,value)
 
+def update_table(db,dbname,data,name):
+    if data is None:
+        log.info('data is None')
+        return
+    db.update_table(dbname,name,data)
+    
+
 
 if __name__ == '__main__':
     main()
