@@ -1,0 +1,10 @@
+# MySQL linking
+mysql_connection:
+    host: 'localhost'
+    port: 3306
+    user: 'root'
+    password: 'zhang123'
+    database: 'amhs'
+    table_map_name: 'ohtc_map'
+    table_position_name: 'ohtc_position'
+    table_order_name: 'transfer_table'
