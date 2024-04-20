@@ -1,0 +1,2 @@
+
+configpath = "../config/config.yaml"
