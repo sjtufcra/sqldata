@@ -57,11 +57,10 @@ class CreateDB:
             log.info("database name or table name or table data is None")
             return
         if self.connflag:
-            insert_query = f"INSERT INTO {table_name} ({', '.join(table_data.keys())}) VALUES ({', '.join(['%s'] * len(table_data))})"
+            insert_query = f"INSERT INTO {name}.{table_name} ({', '.join(table_data.keys())}) VALUES ({', '.join(['%s'] * len(table_data),)})"
             values = tuple(table_data.values())
             self.cursor.execute(insert_query,values)
             self.conn.commit()
-            self.conn.close()
             log.info("update table success")
             return
         

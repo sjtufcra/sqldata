@@ -98,3 +98,2251 @@
 2024-04-22 16:48:10.297 | INFO     | create:connect:17 - connect to mysql success
 2024-04-22 16:48:10.299 | INFO     | create:create_table:52 - createtable success
 2024-04-22 16:48:10.424 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 17:46:41.606 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 17:46:41.607 | INFO     | __main__:main:17 - create db
+2024-04-22 17:46:41.612 | INFO     | create:create_db:29 - create database success
+2024-04-22 17:46:41.660 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 17:46:41.671 | INFO     | create:create_table:52 - createtable success
+2024-04-22 17:46:42.290 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 17:46:42.293 | INFO     | create:create_table:52 - createtable success
+2024-04-22 17:46:42.410 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 18:45:49.945 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 18:45:49.946 | INFO     | __main__:main:17 - create db
+2024-04-22 18:45:49.949 | INFO     | create:create_db:29 - create database success
+2024-04-22 18:45:49.995 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 18:45:56.279 | INFO     | create:create_table:52 - createtable success
+2024-04-22 18:45:56.921 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 18:46:02.310 | INFO     | create:create_table:52 - createtable success
+2024-04-22 18:46:02.437 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 18:56:29.702 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 18:56:29.703 | INFO     | __main__:main:17 - create db
+2024-04-22 18:56:29.705 | INFO     | create:create_db:29 - create database success
+2024-04-22 18:56:29.757 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 18:56:35.784 | INFO     | create:create_table:52 - createtable success
+2024-04-22 18:56:36.452 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 18:56:37.692 | INFO     | create:create_table:52 - createtable success
+2024-04-22 18:56:37.817 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:03:29.279 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:03:29.280 | INFO     | __main__:main:17 - create db
+2024-04-22 19:03:29.282 | INFO     | create:create_db:29 - create database success
+2024-04-22 19:03:29.328 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:03:32.698 | INFO     | create:create_table:52 - createtable success
+2024-04-22 19:03:33.318 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:03:34.451 | INFO     | create:create_table:52 - createtable success
+2024-04-22 19:03:34.614 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:03:37.671 | INFO     | create:create_table:52 - createtable success
+2024-04-22 19:07:55.429 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:07:55.431 | INFO     | __main__:main:17 - create db
+2024-04-22 19:07:55.433 | INFO     | create:create_db:29 - create database success
+2024-04-22 19:08:01.895 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:08:01.896 | INFO     | __main__:main:17 - create db
+2024-04-22 19:08:01.898 | INFO     | create:create_db:29 - create database success
+2024-04-22 19:08:27.539 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:08:27.540 | INFO     | __main__:main:17 - create db
+2024-04-22 19:08:27.541 | INFO     | create:create_db:29 - create database success
+2024-04-22 19:09:56.215 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:09:56.216 | INFO     | __main__:main:17 - create db
+2024-04-22 19:09:56.218 | INFO     | create:create_db:29 - create database success
+2024-04-22 19:09:58.239 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:09:58.241 | INFO     | create:create_table:52 - createtable success
+2024-04-22 19:10:08.582 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:10:08.583 | INFO     | __main__:main:17 - create db
+2024-04-22 19:10:08.585 | INFO     | create:create_db:29 - create database success
+2024-04-22 19:10:13.194 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:10:13.196 | INFO     | create:create_table:52 - createtable success
+2024-04-22 19:13:26.279 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:13:26.280 | INFO     | __main__:main:17 - create db
+2024-04-22 19:13:26.282 | INFO     | create:create_db:29 - create database success
+2024-04-22 19:13:28.283 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:13:28.285 | INFO     | create:create_table:52 - createtable success
+2024-04-22 19:15:38.688 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:15:38.689 | INFO     | __main__:main:17 - create db
+2024-04-22 19:15:38.691 | INFO     | create:create_db:29 - create database success
+2024-04-22 19:15:42.056 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:15:42.058 | INFO     | create:create_table:52 - createtable success
+2024-04-22 19:25:40.581 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:25:40.582 | INFO     | __main__:main:17 - create db
+2024-04-22 19:25:40.584 | INFO     | create:create_db:29 - create database success
+2024-04-22 19:25:40.630 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:25:40.631 | INFO     | create:create_table:52 - createtable success
+2024-04-22 19:26:53.300 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:26:53.301 | INFO     | __main__:main:17 - create db
+2024-04-22 19:26:53.304 | INFO     | create:create_db:29 - create database success
+2024-04-22 19:26:53.352 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:26:53.353 | INFO     | create:create_table:52 - createtable success
+2024-04-22 19:26:53.357 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.420 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.421 | INFO     | __main__:main:17 - create db
+2024-04-22 19:27:35.423 | INFO     | create:create_db:29 - create database success
+2024-04-22 19:27:35.467 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.468 | INFO     | create:create_table:52 - createtable success
+2024-04-22 19:27:35.473 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.480 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.486 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.487 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.494 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.496 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.538 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.567 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.573 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.575 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.580 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.581 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.586 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.588 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.594 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.596 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.601 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.603 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.608 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.610 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.615 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.616 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.621 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.622 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.626 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.628 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.633 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.635 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.639 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.640 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.645 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.647 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.652 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.653 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.657 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.659 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.664 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.665 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.669 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.670 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.675 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.676 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.681 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.682 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.686 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.688 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.692 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.693 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.698 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.699 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.704 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.706 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.710 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.711 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.717 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.718 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.722 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.724 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.728 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.729 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.734 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.736 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.740 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.741 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.746 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.747 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.752 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.753 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.758 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.759 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.764 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.765 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.770 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.772 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.776 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.778 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.782 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.783 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.788 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.790 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.794 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.795 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.800 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.802 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.806 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.807 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.814 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.816 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.822 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.823 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.829 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.831 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.836 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.838 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.842 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.844 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.848 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.850 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.854 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.856 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.860 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.861 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.866 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.868 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.872 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.873 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.878 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.880 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.884 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.886 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.890 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.891 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.896 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.897 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.902 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.903 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.908 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.909 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.914 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.916 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.921 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.922 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.928 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.930 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.936 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.937 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.943 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.944 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.948 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.950 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.954 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.956 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.960 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.962 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.967 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.969 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.973 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.974 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.978 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.980 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.985 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.987 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.991 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.992 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:35.997 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:35.998 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:36.003 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:36.004 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:36.008 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:36.010 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:36.014 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:36.016 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:36.020 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:36.022 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:36.026 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:36.027 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:36.033 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:36.034 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:36.038 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:36.039 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:36.044 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:36.045 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:36.050 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:36.052 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:36.056 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:36.057 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:36.061 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:36.063 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:36.068 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:36.069 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:36.074 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:36.075 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:36.080 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:36.082 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:36.088 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:36.090 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:36.095 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:36.096 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:36.102 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:36.103 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:36.107 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:36.108 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:36.113 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:36.115 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:36.119 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:36.121 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:36.125 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:36.126 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:36.131 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:36.132 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:36.137 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:36.139 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:36.143 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:36.144 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:36.149 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:36.150 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:36.155 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:36.156 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:36.160 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:36.162 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:36.167 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:27:36.168 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:27:36.172 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:28:14.887 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:28:14.888 | INFO     | __main__:main:17 - create db
+2024-04-22 19:28:14.890 | INFO     | create:create_db:29 - create database success
+2024-04-22 19:28:14.935 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:28:14.936 | INFO     | create:create_table:52 - createtable success
+2024-04-22 19:28:14.942 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:30:56.900 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:00.168 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:01.677 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:03.672 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:04.973 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:07.943 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:11.667 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:11.674 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:11.676 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:11.681 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:11.682 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:11.687 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:11.689 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:11.695 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:11.696 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:11.700 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:11.702 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:11.707 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:11.708 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:11.713 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:11.714 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:11.719 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:11.721 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:11.726 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:11.727 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:11.732 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:11.733 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:11.738 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:11.739 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:11.744 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:11.746 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:11.751 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:11.752 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:11.757 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:11.759 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:11.766 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:11.768 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:11.774 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:11.775 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:11.781 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:11.783 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:11.789 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:11.790 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:11.794 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:11.796 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:11.801 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:11.802 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:11.806 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:11.808 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:11.813 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:11.814 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:11.819 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:11.820 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:11.825 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:11.826 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:11.830 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:11.832 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:11.838 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:11.839 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:11.843 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:11.844 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:11.849 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:11.851 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:11.855 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:11.857 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:11.862 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:11.863 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:11.868 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:11.869 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:11.874 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:11.875 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:11.880 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:11.881 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:11.886 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:11.887 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:11.892 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:11.893 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:11.897 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:11.899 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:11.904 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:11.906 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:11.910 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:11.912 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:11.917 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:11.918 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:11.924 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:11.926 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:11.930 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:11.932 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:11.937 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:11.939 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:11.943 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:11.944 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:11.949 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:11.951 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:11.958 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:11.961 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:11.967 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:11.970 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:11.976 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:11.978 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:11.983 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:11.985 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:11.990 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:12.009 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:12.050 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:12.090 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:12.096 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:12.098 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:12.104 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:12.105 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:12.110 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:12.111 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:12.115 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:12.117 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:12.122 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:12.123 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:12.128 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:12.129 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:12.134 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:12.135 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:12.140 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:12.141 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:12.146 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:12.148 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:12.153 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:12.154 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:12.159 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:12.160 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:12.164 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:12.166 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:12.172 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:12.173 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:12.178 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:12.179 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:12.184 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:12.186 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:12.190 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:12.192 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:12.196 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:12.197 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:12.203 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:12.204 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:12.209 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:12.210 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:12.214 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:12.216 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:12.221 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:12.222 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:12.227 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:12.228 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:12.232 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:12.234 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:12.239 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:12.240 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:12.244 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:12.246 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:12.250 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:12.252 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:12.256 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:12.258 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:12.262 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:12.263 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:12.268 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:12.269 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:12.275 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:12.277 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:12.282 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:12.284 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:12.290 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:12.292 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:12.298 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:12.299 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:12.304 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:12.305 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:12.310 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:12.311 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:12.316 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:12.318 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:12.323 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:12.324 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:12.329 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:12.330 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:12.335 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:12.337 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:12.341 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:12.343 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:12.347 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:12.349 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:12.354 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:12.356 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:12.360 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:12.362 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:12.367 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:12.368 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:12.373 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:12.375 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:12.380 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:12.382 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:12.387 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:31:12.388 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:31:12.393 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:32:19.270 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:32:19.270 | INFO     | __main__:main:17 - create db
+2024-04-22 19:32:19.272 | INFO     | create:create_db:29 - create database success
+2024-04-22 19:32:19.318 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:32:19.319 | INFO     | create:create_table:52 - createtable success
+2024-04-22 19:32:19.324 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:32:21.863 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:32:37.071 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:32:37.072 | INFO     | __main__:main:17 - create db
+2024-04-22 19:32:37.074 | INFO     | create:create_db:29 - create database success
+2024-04-22 19:32:37.121 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:32:37.122 | INFO     | create:create_table:52 - createtable success
+2024-04-22 19:32:37.127 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:32:37.129 | INFO     | create:update_table:65 - update table success
+2024-04-22 19:32:54.755 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:32:54.756 | INFO     | __main__:main:17 - create db
+2024-04-22 19:32:54.758 | INFO     | create:create_db:29 - create database success
+2024-04-22 19:32:54.807 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:32:54.808 | INFO     | create:create_table:52 - createtable success
+2024-04-22 19:32:54.813 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:32:54.814 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.815 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.815 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.816 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.817 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.818 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.819 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.820 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.822 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.823 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.824 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.824 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.825 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.826 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.827 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.827 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.828 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.829 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.830 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.831 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.831 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.832 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.833 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.833 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.834 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.835 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.836 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.837 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.837 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.838 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.839 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.839 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.841 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.841 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.842 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.843 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.844 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.845 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.845 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.846 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.847 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.847 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.848 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.848 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.849 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.850 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.851 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.852 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.852 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.853 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.853 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.854 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.855 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.857 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.858 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.858 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.859 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.860 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.860 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.861 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.861 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.862 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.863 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.863 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.864 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.864 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.865 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.865 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.866 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.868 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.869 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.869 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.870 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.870 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.871 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.872 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.873 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.874 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.874 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.875 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.876 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.876 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.877 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.878 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.878 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.879 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.880 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.880 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.881 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.881 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.882 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.882 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.883 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.884 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.885 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.886 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.886 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.887 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.887 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.889 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:32:54.890 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:27.462 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:37:27.463 | INFO     | __main__:main:17 - create db
+2024-04-22 19:37:27.465 | INFO     | create:create_db:29 - create database success
+2024-04-22 19:37:27.510 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:37:27.511 | INFO     | create:create_table:52 - createtable success
+2024-04-22 19:37:27.515 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:37:46.887 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.019 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.020 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.022 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.024 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.026 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.027 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.028 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.029 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.029 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.030 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.031 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.032 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.033 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.034 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.035 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.036 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.037 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.037 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.038 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.039 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.040 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.040 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.041 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.042 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.043 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.043 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.044 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.044 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.045 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.046 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.048 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.049 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.050 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.051 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.052 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.053 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.053 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.054 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.055 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.056 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.056 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.057 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.058 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.059 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.060 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.061 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.062 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.063 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.063 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.064 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.065 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.065 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.066 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.066 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.067 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.068 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.069 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.069 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.070 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.071 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.071 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.072 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.073 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.073 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.074 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.075 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.075 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.076 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.077 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.078 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.079 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.080 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.081 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.081 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.082 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.083 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.084 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.085 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.085 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.086 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.087 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.088 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.089 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.089 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.090 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.091 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.092 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.092 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.093 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.094 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.094 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.095 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.095 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.096 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.097 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.098 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.098 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.099 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.099 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:37:51.100 | INFO     | create:update_table:63 - update table success
+2024-04-22 19:42:20.347 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:42:20.348 | INFO     | __main__:main:17 - create db
+2024-04-22 19:42:20.351 | INFO     | create:create_db:29 - create database success
+2024-04-22 19:42:20.397 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:42:20.398 | INFO     | create:create_table:52 - createtable success
+2024-04-22 19:42:20.404 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:42:25.019 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.847 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.849 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.851 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.853 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.855 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.856 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.857 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.858 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.860 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.861 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.862 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.864 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.865 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.867 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.868 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.869 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.870 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.872 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.874 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.876 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.878 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.879 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.881 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.883 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.884 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.885 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.887 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.888 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.889 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.890 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.891 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.892 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.894 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.895 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.897 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.898 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.899 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.901 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.902 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.903 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.904 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.906 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.907 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.908 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.910 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.911 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.912 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.914 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.915 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.916 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.917 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.918 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.919 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.920 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.921 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.923 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.924 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.925 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.927 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.928 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.930 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.931 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.933 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.934 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.936 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.937 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.938 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.940 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.941 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.943 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.945 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.946 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.947 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.948 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.949 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.950 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.952 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.953 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.954 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.955 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.956 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.957 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.958 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.959 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.960 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.961 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.962 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.964 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.965 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.966 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.967 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.968 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.969 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.970 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.971 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.972 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.973 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.974 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.975 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:42:26.976 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.057 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:43:29.058 | INFO     | __main__:main:17 - create db
+2024-04-22 19:43:29.060 | INFO     | create:create_db:29 - create database success
+2024-04-22 19:43:29.104 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:43:29.106 | INFO     | create:create_table:52 - createtable success
+2024-04-22 19:43:29.111 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:43:29.112 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.113 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.114 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.115 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.116 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.117 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.118 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.119 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.120 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.121 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.122 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.123 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.124 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.124 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.125 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.126 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.127 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.128 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.129 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.130 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.132 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.134 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.135 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.136 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.137 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.138 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.139 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.140 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.141 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.143 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.144 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.145 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.146 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.148 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.149 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.150 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.151 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.152 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.153 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.154 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.155 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.156 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.157 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.158 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.159 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.161 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.162 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.163 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.164 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.165 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.166 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.167 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.168 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.169 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.170 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.171 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.172 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.173 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.174 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.175 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.176 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.177 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.178 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.180 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.181 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.182 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.183 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.184 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.185 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.186 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.187 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.187 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.188 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.189 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.190 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.191 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.192 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.193 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.195 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.196 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.197 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.198 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.199 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.200 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.201 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.202 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.203 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.204 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.205 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.206 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.207 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.208 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.209 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.210 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.211 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.212 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.213 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.215 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.216 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.217 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:29.218 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.627 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:43:36.628 | INFO     | __main__:main:17 - create db
+2024-04-22 19:43:36.630 | INFO     | create:create_db:29 - create database success
+2024-04-22 19:43:36.675 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:43:36.677 | INFO     | create:create_table:52 - createtable success
+2024-04-22 19:43:36.682 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:43:36.683 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.684 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.686 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.687 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.689 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.690 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.691 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.692 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.693 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.694 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.696 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.697 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.699 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.700 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.702 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.704 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.705 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.706 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.707 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.708 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.709 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.711 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.712 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.713 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.732 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.745 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.751 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.771 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.779 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.781 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.783 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.784 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.786 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.799 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.801 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.802 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.804 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.805 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.806 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.807 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.808 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.809 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.811 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.812 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.813 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.814 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.815 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.816 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.818 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.819 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.820 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.821 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.822 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.823 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.824 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.825 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.826 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.827 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.829 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.830 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.831 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.832 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.833 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.834 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.835 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.836 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.836 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.838 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.839 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.840 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.840 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.841 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.842 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.843 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.844 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.846 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.847 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.848 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.849 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.850 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.851 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.852 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.853 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.854 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.855 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.856 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.857 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.858 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.859 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.860 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.861 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.862 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.863 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.864 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.865 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.866 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.868 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.869 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.870 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.871 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:36.872 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:43:52.762 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:43:52.763 | INFO     | __main__:main:17 - create db
+2024-04-22 19:43:52.764 | INFO     | create:create_db:29 - create database success
+2024-04-22 19:44:05.501 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:44:05.502 | INFO     | create:create_table:52 - createtable success
+2024-04-22 19:44:05.509 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:44:05.511 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.513 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.514 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.515 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.517 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.519 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.521 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.523 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.524 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.526 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.528 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.529 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.531 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.533 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.535 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.536 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.538 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.539 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.540 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.541 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.542 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.544 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.546 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.547 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.549 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.550 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.552 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.554 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.555 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.557 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.558 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.560 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.562 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.564 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.565 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.567 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.568 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.569 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.571 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.573 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.574 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.575 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.576 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.577 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.578 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.580 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.581 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.582 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.583 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.584 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.585 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.586 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.588 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.589 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.591 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.593 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.594 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.596 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.597 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.598 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.599 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.600 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.601 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.602 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.603 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.604 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.605 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.606 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.606 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.607 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.608 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.609 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.610 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.611 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.612 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.613 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.615 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.616 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.617 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.618 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.618 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.620 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.621 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.621 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.622 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.623 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.624 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.625 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.626 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.627 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.628 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.629 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.630 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.631 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.632 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.633 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.634 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.635 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.636 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.637 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:05.638 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:44:35.218 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:44:35.219 | INFO     | __main__:main:17 - create db
+2024-04-22 19:44:35.220 | INFO     | create:create_db:29 - create database success
+2024-04-22 19:45:29.520 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:45:29.520 | INFO     | __main__:main:17 - create db
+2024-04-22 19:45:29.522 | INFO     | create:create_db:29 - create database success
+2024-04-22 19:45:49.461 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:45:49.462 | INFO     | create:create_table:52 - createtable success
+2024-04-22 19:45:49.489 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:45:49.491 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.494 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.496 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.499 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.500 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.502 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.507 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.509 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.510 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.513 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.515 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.517 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.519 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.520 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.521 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.523 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.524 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.526 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.527 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.529 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.547 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.554 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.558 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.560 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.561 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.563 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.564 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.565 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.567 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.569 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.571 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.572 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.574 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.575 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.576 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.577 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.579 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.580 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.582 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.584 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.587 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.588 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.590 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.592 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.593 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.595 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.596 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.598 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.599 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.601 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.603 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.605 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.607 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.609 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.610 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.612 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.614 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.616 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.618 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.620 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.622 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.624 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.626 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.627 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.629 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.631 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.632 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.634 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.635 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.637 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.638 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.639 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.640 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.642 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.643 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.644 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.645 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.647 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.650 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.652 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.654 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.655 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.656 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.658 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.659 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.660 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.661 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.663 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.665 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.668 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.669 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.670 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.671 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.673 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.675 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.676 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.677 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.678 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.679 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.682 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:45:49.684 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:10.035 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:46:10.036 | INFO     | __main__:main:17 - create db
+2024-04-22 19:46:10.039 | INFO     | create:create_db:29 - create database success
+2024-04-22 19:46:55.000 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:46:55.001 | INFO     | create:create_table:52 - createtable success
+2024-04-22 19:46:55.008 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:46:55.009 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.010 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.011 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.012 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.013 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.015 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.016 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.017 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.018 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.020 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.021 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.023 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.024 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.026 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.027 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.028 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.029 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.030 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.031 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.032 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.033 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.035 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.036 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.037 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.039 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.040 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.041 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.042 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.043 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.044 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.045 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.046 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.047 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.048 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.049 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.050 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.051 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.052 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.054 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.055 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.056 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.058 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.059 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.059 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.061 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.062 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.064 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.065 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.066 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.067 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.068 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.069 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.071 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.072 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.074 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.075 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.076 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.077 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.078 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.079 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.081 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.082 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.083 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.085 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.086 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.087 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.089 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.090 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.091 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.092 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.093 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.094 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.095 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.096 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.097 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.098 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.100 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.101 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.102 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.103 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.104 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.105 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.106 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.107 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.108 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.109 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.111 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.112 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.113 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.114 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.115 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.116 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.118 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.119 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.120 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.121 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.122 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.123 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.124 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.125 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:46:55.126 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:47:58.276 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:47:58.277 | INFO     | __main__:main:17 - create db
+2024-04-22 19:47:58.279 | INFO     | create:create_db:29 - create database success
+2024-04-22 19:48:03.798 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:48:03.800 | INFO     | create:create_table:52 - createtable success
+2024-04-22 19:48:03.807 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:48:03.809 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.810 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.811 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.812 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.813 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.814 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.816 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.817 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.818 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.819 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.821 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.823 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.854 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.862 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.877 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.879 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.880 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.882 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.884 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.885 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.887 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.888 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.889 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.890 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.892 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.893 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.894 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.896 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.897 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.898 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.900 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.901 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.903 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.904 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.905 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.907 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.908 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.910 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.911 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.913 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.914 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.915 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.916 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.917 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.918 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.919 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.922 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.925 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.927 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.929 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.930 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.933 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.934 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.936 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.937 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.938 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.940 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.941 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.943 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.944 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.946 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.947 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.948 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.949 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.950 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.951 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.952 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.954 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.955 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.956 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.958 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.959 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.960 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.961 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.963 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.964 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.965 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.967 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.968 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.969 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.969 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.971 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.972 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.973 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.973 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.974 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.975 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.976 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.978 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.979 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.980 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.981 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.982 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.983 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.984 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.985 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.986 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.987 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.988 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.989 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:03.990 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:24.353 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:48:24.353 | INFO     | __main__:main:17 - create db
+2024-04-22 19:48:24.355 | INFO     | create:create_db:29 - create database success
+2024-04-22 19:48:29.189 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:48:29.191 | INFO     | create:create_table:52 - createtable success
+2024-04-22 19:48:29.196 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:48:29.198 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.199 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.200 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.201 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.203 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.204 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.205 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.207 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.209 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.210 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.211 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.213 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.214 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.215 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.216 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.217 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.218 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.220 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.222 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.223 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.224 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.225 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.226 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.227 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.228 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.230 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.231 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.232 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.233 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.234 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.236 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.238 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.239 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.240 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.241 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.242 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.244 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.245 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.246 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.247 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.248 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.249 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.250 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.251 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.253 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.254 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.255 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.256 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.258 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.259 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.260 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.261 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.262 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.263 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.264 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.265 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.266 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.267 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.268 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.270 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.272 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.283 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.295 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.303 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.308 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.310 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.315 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.323 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.328 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.330 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.331 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.333 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.334 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.336 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.340 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.343 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.344 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.345 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.347 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.348 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.350 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.351 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.352 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.354 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.355 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.356 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.358 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.359 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.361 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.362 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.363 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.365 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.366 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.367 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.368 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.372 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.374 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.376 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.377 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.379 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:48:29.381 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:53:16.143 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:53:16.144 | INFO     | __main__:main:17 - create db
+2024-04-22 19:53:16.147 | INFO     | create:create_db:29 - create database success
+2024-04-22 19:54:04.367 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:54:04.369 | INFO     | create:create_table:52 - createtable success
+2024-04-22 19:54:04.375 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:55:14.579 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:55:18.382 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:55:20.756 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:55:23.023 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:55:25.825 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:55:31.309 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:55:36.475 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:55:37.645 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:55:38.224 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:55:38.756 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:55:39.466 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:55:40.130 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:55:40.720 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:55:41.284 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:55:41.830 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:55:42.405 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:55:42.997 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:55:43.565 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:55:44.117 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:55:44.704 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:55:45.131 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:55:45.469 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:55:52.212 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:55:52.845 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:55:53.310 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:55:53.982 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:55:54.211 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:55:54.427 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:55:54.665 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:55:54.858 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:55:55.044 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:55:55.273 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:55:55.484 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:55:55.657 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:55:55.880 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:55:56.095 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:55:56.301 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:55:56.502 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:55:56.768 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:55:56.949 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:55:57.194 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:55:57.389 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:55:57.772 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:55:58.135 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:55:58.401 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:55:58.661 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:55:58.893 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:55:59.136 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:55:59.375 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:55:59.602 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:55:59.844 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:00.062 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:00.281 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:00.510 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:00.731 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:00.942 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:01.170 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:01.392 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:05.378 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:05.381 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:05.383 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:05.385 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:05.387 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:05.388 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:05.389 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:05.391 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:05.393 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:05.394 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:05.395 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:05.397 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:05.398 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:05.400 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:05.402 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:05.403 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:05.404 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:05.405 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:05.406 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:05.408 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:05.409 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:05.411 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:05.412 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:05.413 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:05.414 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:05.416 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:05.417 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:05.418 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:05.419 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:05.420 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:05.421 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:05.422 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:05.423 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:05.425 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:05.427 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:05.428 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:05.429 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:05.430 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:05.431 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:05.432 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:05.433 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:05.435 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:05.436 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:51.957 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:56:51.957 | INFO     | __main__:main:17 - create db
+2024-04-22 19:56:51.959 | INFO     | create:create_db:29 - create database success
+2024-04-22 19:56:52.003 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:56:52.004 | INFO     | create:create_table:52 - createtable success
+2024-04-22 19:56:52.008 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 19:56:56.150 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.151 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.153 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.154 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.155 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.157 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.158 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.160 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.161 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.162 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.163 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.165 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.167 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.169 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.171 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.173 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.175 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.176 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.178 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.179 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.181 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.182 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.183 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.184 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.186 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.187 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.188 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.189 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.191 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.192 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.195 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.229 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.238 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.251 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.272 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.280 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.281 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.283 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.285 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.286 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.287 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.289 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.290 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.294 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.299 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.302 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.303 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.305 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.307 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.308 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.310 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.312 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.313 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.314 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.316 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.318 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.319 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.321 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.322 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.324 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.325 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.327 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.328 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.330 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.331 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.332 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.333 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.334 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.335 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.337 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.338 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.339 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.340 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.341 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.342 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.343 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.344 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.345 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.347 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.348 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.349 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.350 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.351 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.352 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.353 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.354 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.355 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.356 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.357 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.359 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.360 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.361 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.362 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.364 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.365 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.366 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.367 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.368 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.369 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.370 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.371 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.372 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.373 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.375 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.376 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.377 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.378 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.379 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.380 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.381 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.382 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.384 | INFO     | create:update_table:64 - update table success
+2024-04-22 19:56:56.385 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.846 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 20:03:19.847 | INFO     | __main__:main:17 - create db
+2024-04-22 20:03:19.849 | INFO     | create:create_db:29 - create database success
+2024-04-22 20:03:19.893 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 20:03:19.895 | INFO     | create:create_table:52 - createtable success
+2024-04-22 20:03:19.900 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 20:03:19.901 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.902 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.903 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.904 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.906 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.907 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.908 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.909 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.910 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.911 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.912 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.913 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.914 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.915 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.916 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.918 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.919 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.920 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.922 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.923 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.924 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.925 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.926 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.927 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.928 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.929 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.930 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.931 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.932 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.933 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.935 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.936 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.937 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.938 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.939 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.940 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.941 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.942 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.943 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.944 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.945 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.947 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.948 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.949 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.950 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.951 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.952 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.953 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.954 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.955 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.956 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.957 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.958 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.959 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.960 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.961 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.962 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.964 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.965 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.966 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.967 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.968 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.969 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.970 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.971 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.972 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.973 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.973 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.975 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.976 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.977 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.978 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.979 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.981 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.982 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.983 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.984 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.985 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.986 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.987 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.988 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.988 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.990 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.991 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.992 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.993 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.994 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.995 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.996 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.997 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:19.998 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:20.000 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:20.001 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:20.002 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:20.003 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:20.004 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:20.005 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:20.006 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:20.007 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:20.008 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:20.009 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:20.010 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:20.011 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:20.012 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:20.013 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:20.015 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:20.016 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:20.017 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:20.018 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:20.018 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:20.020 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:20.021 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:20.022 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.176 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 20:03:34.178 | INFO     | __main__:main:17 - create db
+2024-04-22 20:03:34.180 | INFO     | create:create_db:29 - create database success
+2024-04-22 20:03:34.226 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 20:03:34.228 | INFO     | create:create_table:52 - createtable success
+2024-04-22 20:03:34.232 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 20:03:34.233 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.234 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.235 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.236 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.238 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.239 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.240 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.241 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.242 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.243 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.245 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.246 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.247 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.248 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.249 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.251 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.253 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.254 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.255 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.256 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.257 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.258 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.259 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.260 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.261 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.262 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.263 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.265 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.266 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.267 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.269 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.270 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.271 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.272 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.273 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.274 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.275 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.276 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.278 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.279 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.280 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.281 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.282 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.283 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.284 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.285 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.286 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.287 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.288 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.289 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.290 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.291 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.292 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.293 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.294 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.295 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.296 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.297 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.299 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.300 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.301 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.302 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.303 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.304 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.305 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.306 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.307 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.308 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.309 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.310 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.311 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.313 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.314 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.315 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.316 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.317 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.318 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.319 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.320 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.321 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.322 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.323 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.324 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.325 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.326 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.327 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.328 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.329 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.330 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.331 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.333 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.334 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.335 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.336 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.337 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.338 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.339 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.340 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.341 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.342 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:03:34.343 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.437 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 20:05:10.438 | INFO     | __main__:main:17 - create db
+2024-04-22 20:05:10.440 | INFO     | create:create_db:29 - create database success
+2024-04-22 20:05:10.488 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 20:05:10.489 | INFO     | create:create_table:52 - createtable success
+2024-04-22 20:05:10.494 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 20:05:10.495 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.497 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.498 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.500 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.502 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.503 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.504 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.506 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.507 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.508 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.509 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.509 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.510 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.512 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.514 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.516 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.519 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.520 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.522 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.523 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.524 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.525 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.525 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.526 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.528 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.529 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.530 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.531 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.533 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.535 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.537 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.538 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.539 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.540 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.541 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.542 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.543 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.544 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.545 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.546 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.547 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.549 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.551 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.553 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.554 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.555 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.556 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.557 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.558 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.559 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.560 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.561 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.562 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.563 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.564 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.566 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.567 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.569 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.570 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.571 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.572 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.573 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.574 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.575 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.576 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.577 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.578 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.579 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.580 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.582 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.583 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.585 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.587 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.588 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.589 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.589 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.590 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.591 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.593 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.594 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.595 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.596 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.597 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.598 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.600 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.602 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.603 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.604 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.605 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.606 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.607 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.608 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.609 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.610 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.611 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.612 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.613 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.614 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.615 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.617 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:10.618 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:49.897 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 20:05:49.897 | INFO     | __main__:main:17 - create db
+2024-04-22 20:05:49.899 | INFO     | create:create_db:29 - create database success
+2024-04-22 20:05:49.950 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 20:05:49.953 | INFO     | create:create_table:52 - createtable success
+2024-04-22 20:05:49.958 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 20:05:49.959 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:49.960 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:49.961 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:49.962 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:49.963 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:49.964 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:49.965 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:49.966 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:49.967 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:49.969 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:49.970 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:49.971 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:49.972 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:49.973 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:49.974 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:49.975 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:49.976 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:49.977 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:49.978 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:49.979 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:49.980 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:49.981 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:49.983 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:49.984 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:49.985 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:49.986 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:49.987 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:49.988 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:49.990 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:49.991 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:49.992 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:49.993 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:49.994 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:49.995 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:49.996 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:49.997 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:49.998 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:49.999 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.001 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.002 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.003 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.004 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.005 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.006 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.007 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.008 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.009 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.010 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.011 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.012 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.014 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.015 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.016 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.017 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.018 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.019 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.020 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.021 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.022 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.023 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.024 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.025 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.026 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.027 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.028 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.029 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.030 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.031 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.032 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.034 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.035 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.036 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.037 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.038 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.039 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.040 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.041 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.042 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.043 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.044 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.045 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.046 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.047 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.048 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.049 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.050 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.052 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.053 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.054 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.055 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.056 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.057 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.058 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.059 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.060 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.061 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.062 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.063 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.064 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.065 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:05:50.066 | INFO     | create:update_table:64 - update table success
+2024-04-22 20:06:45.405 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 20:06:45.406 | INFO     | __main__:main:17 - create db
+2024-04-22 20:06:45.408 | INFO     | create:create_db:29 - create database success
+2024-04-22 20:06:45.453 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 20:06:45.454 | INFO     | create:create_table:52 - createtable success
+2024-04-22 20:06:45.459 | INFO     | create:connect:17 - connect to mysql success

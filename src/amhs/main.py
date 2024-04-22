@@ -20,7 +20,7 @@ def main():
 
 def infer_mysql_type(value):
     if value is None:
-        return 'INT NULL'
+        return 'VARCHAR(500)'
     elif isinstance(value, int):
         return 'INT'
     elif isinstance(value, float):
@@ -36,13 +36,17 @@ def get_json_file(db,dbname,path,tablename):
     flag = tablename.split('_')
     index = f'{flag[0]}_{flag[1]}'
 
-    filedata = data[index.upper()][0]
-    create_table(db=db,dbname=dbname,data=filedata,name=tablename)
+    filedata = data[index.upper()]
+    for k,v in enumerate(filedata):
+        if k == 0 and v is not None:
+            create_table(db=db,dbname=dbname,data=v,name=tablename)
+            db.connect()
+        update_table(db,dbname,v,tablename)
 
 def create_table(db,dbname,data,name):
     value = []
     for key,val in data.items():
-        value.append(f'{key} {infer_mysql_type(val)}')
+        value.append(f'`{key}` {infer_mysql_type(val)}')
     db.connect()
     db.create_table(dbname,name,value)
 
