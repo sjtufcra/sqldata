@@ -1,0 +1,100 @@
+2024-04-22 15:04:35.420 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 15:04:38.214 | INFO     | __main__:main:17 - create db
+2024-04-22 15:08:07.136 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 15:12:50.122 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 15:12:50.124 | INFO     | __main__:main:17 - create db
+2024-04-22 15:17:00.725 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 15:17:00.726 | INFO     | __main__:main:17 - create db
+2024-04-22 15:24:40.881 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 15:24:40.882 | INFO     | __main__:main:17 - create db
+2024-04-22 15:24:54.350 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 15:24:54.351 | INFO     | __main__:main:17 - create db
+2024-04-22 15:26:20.052 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 15:26:20.054 | INFO     | __main__:main:17 - create db
+2024-04-22 15:27:17.381 | INFO     | create:create_db:29 - create database success
+2024-04-22 15:37:03.522 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 15:37:03.524 | INFO     | __main__:main:17 - create db
+2024-04-22 15:37:03.526 | INFO     | create:create_db:29 - create database success
+2024-04-22 15:38:04.426 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 15:38:04.428 | INFO     | __main__:main:17 - create db
+2024-04-22 15:38:04.429 | INFO     | create:create_db:29 - create database success
+2024-04-22 15:39:14.689 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 15:39:14.691 | INFO     | __main__:main:17 - create db
+2024-04-22 15:39:14.692 | INFO     | create:create_db:29 - create database success
+2024-04-22 15:39:40.590 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 15:39:40.591 | INFO     | __main__:main:17 - create db
+2024-04-22 15:39:40.593 | INFO     | create:create_db:29 - create database success
+2024-04-22 15:42:03.522 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 15:42:03.524 | INFO     | __main__:main:17 - create db
+2024-04-22 15:42:03.526 | INFO     | create:create_db:29 - create database success
+2024-04-22 15:47:36.872 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 15:47:36.873 | INFO     | __main__:main:17 - create db
+2024-04-22 15:47:36.875 | INFO     | create:create_db:29 - create database success
+2024-04-22 15:50:49.226 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 15:50:49.227 | INFO     | __main__:main:17 - create db
+2024-04-22 15:50:49.229 | INFO     | create:create_db:29 - create database success
+2024-04-22 15:51:14.388 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 15:51:14.389 | INFO     | __main__:main:17 - create db
+2024-04-22 15:51:14.392 | INFO     | create:create_db:29 - create database success
+2024-04-22 15:52:19.649 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 15:52:19.650 | INFO     | __main__:main:17 - create db
+2024-04-22 15:52:19.653 | INFO     | create:create_db:29 - create database success
+2024-04-22 15:53:07.053 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 15:53:07.054 | INFO     | __main__:main:17 - create db
+2024-04-22 15:53:07.056 | INFO     | create:create_db:29 - create database success
+2024-04-22 15:54:56.859 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 15:54:56.860 | INFO     | __main__:main:17 - create db
+2024-04-22 15:54:56.863 | INFO     | create:create_db:29 - create database success
+2024-04-22 15:55:00.922 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 16:02:19.514 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 16:02:19.515 | INFO     | __main__:main:17 - create db
+2024-04-22 16:02:19.517 | INFO     | create:create_db:29 - create database success
+2024-04-22 16:02:23.749 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 16:03:20.454 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 16:03:20.454 | INFO     | __main__:main:17 - create db
+2024-04-22 16:03:20.457 | INFO     | create:create_db:29 - create database success
+2024-04-22 16:03:20.503 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 16:03:55.144 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 16:03:55.145 | INFO     | __main__:main:17 - create db
+2024-04-22 16:03:55.147 | INFO     | create:create_db:29 - create database success
+2024-04-22 16:03:55.194 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 16:04:28.837 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 16:04:28.838 | INFO     | __main__:main:17 - create db
+2024-04-22 16:04:28.840 | INFO     | create:create_db:29 - create database success
+2024-04-22 16:04:28.886 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 16:12:28.965 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 16:12:28.967 | INFO     | __main__:main:17 - create db
+2024-04-22 16:12:28.970 | INFO     | create:create_db:29 - create database success
+2024-04-22 16:13:25.423 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 16:21:56.951 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 16:21:56.952 | INFO     | __main__:main:17 - create db
+2024-04-22 16:21:56.954 | INFO     | create:create_db:29 - create database success
+2024-04-22 16:21:57.001 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 16:31:25.856 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 16:31:25.857 | INFO     | __main__:main:17 - create db
+2024-04-22 16:31:25.859 | INFO     | create:create_db:29 - create database success
+2024-04-22 16:31:25.906 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 16:36:04.886 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 16:36:04.887 | INFO     | __main__:main:17 - create db
+2024-04-22 16:36:04.889 | INFO     | create:create_db:29 - create database success
+2024-04-22 16:36:04.976 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 16:36:09.092 | INFO     | create:create_table:52 - createtable success
+2024-04-22 16:36:10.960 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 16:36:14.931 | INFO     | create:create_table:52 - createtable success
+2024-04-22 16:36:15.055 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 16:45:31.617 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 16:45:31.618 | INFO     | __main__:main:17 - create db
+2024-04-22 16:45:31.621 | INFO     | create:create_db:29 - create database success
+2024-04-22 16:45:31.666 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 16:45:31.674 | INFO     | create:create_table:52 - createtable success
+2024-04-22 16:45:32.285 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 16:45:32.288 | INFO     | create:create_table:52 - createtable success
+2024-04-22 16:45:32.404 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 16:48:09.531 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 16:48:09.544 | INFO     | __main__:main:17 - create db
+2024-04-22 16:48:09.566 | INFO     | create:create_db:29 - create database success
+2024-04-22 16:48:09.637 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 16:48:09.639 | INFO     | create:create_table:52 - createtable success
+2024-04-22 16:48:10.297 | INFO     | create:connect:17 - connect to mysql success
+2024-04-22 16:48:10.299 | INFO     | create:create_table:52 - createtable success
+2024-04-22 16:48:10.424 | INFO     | create:connect:17 - connect to mysql success

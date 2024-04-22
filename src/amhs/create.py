@@ -22,7 +22,7 @@ class CreateDB:
             log.info("database name is None")
             return
         if self.connflag:
-            self.cursor.execute("""
+            self.cursor.execute(f"""
                 CREATE DATABASE IF NOT EXISTS {name}""")
             self.conn.commit()
             self.conn.close()
@@ -45,7 +45,8 @@ class CreateDB:
             log.info("database name or table name or table data is None")
             return
         if self.connflag:
-            self.cursor.execute("CREATE TABLE IF NOT EXISTS {name}.{table_name} ({', '.join(table_data)})")
+            val = ', '.join(table_data)
+            self.cursor.execute(f"CREATE TABLE IF NOT EXISTS {name}.{table_name} ({val})")
             self.conn.commit()
             self.conn.close()
             log.info("createtable success")

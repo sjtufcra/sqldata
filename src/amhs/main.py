@@ -15,12 +15,12 @@ def main():
     config = read_yaml_config(path)
     db = CreateDB(config)
     log.info('create db')
+    return db,config
     # create_db(config)
-    pass
 
 def infer_mysql_type(value):
     if value is None:
-        return 'NULL'
+        return 'INT NULL'
     elif isinstance(value, int):
         return 'INT'
     elif isinstance(value, float):
@@ -33,12 +33,17 @@ def get_json_file(db,dbname,path,tablename):
     filepath = os.path.abspath(path)
     with open(filepath,'r') as f:
         data = json.load(f)
-    create_table(db=db,dbname=dbname,data=data,tablename=tablename)
+    flag = tablename.split('_')
+    index = f'{flag[0]}_{flag[1]}'
+
+    filedata = data[index.upper()][0]
+    create_table(db=db,dbname=dbname,data=filedata,name=tablename)
 
 def create_table(db,dbname,data,name):
     value = []
-    for key,value in data.items():
-        value.append(f'{key} {infer_mysql_type(value)}')
+    for key,val in data.items():
+        value.append(f'{key} {infer_mysql_type(val)}')
+    db.connect()
     db.create_table(dbname,name,value)
 
 def update_table(db,dbname,data,name):
@@ -50,4 +55,13 @@ def update_table(db,dbname,data,name):
 
 
 if __name__ == '__main__':
-    main()
+    
+    db,config = main()
+    daname = config.mysql_database['database']
+    db.create_db(daname)
+    # create table to db    
+    for key, path in enumerate(pathArray):
+        if path.endswith('.json'):
+            ph = os.path.abspath(path)
+            get_json_file(db,daname,ph,config.mysql_database['table_names'][key])
+    
