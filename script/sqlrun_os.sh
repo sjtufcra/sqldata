@@ -1,5 +1,8 @@
 brew services list | grep mysql
 brew services start mysql
 
-   FLUSH PRIVILEGES; 
-   ALTER USER 'root'@'localhost' IDENTIFIED BY 'zhang123'
+
+   #sudo mysqld_safe --skip-grant-tables &
+
+   # FLUSH PRIVILEGES; 
+   # ALTER USER 'root'@'localhost' IDENTIFIED BY 'Zhang123.';

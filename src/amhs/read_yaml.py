@@ -1,14 +1,15 @@
 from yaml import safe_load as load
 
-from typing import Any, Union
+from typing import Any
 
 class DictAsObject:
     def __init__(self, dictionary: dict):
         for key, value in dictionary.items():
-            if isinstance(value, dict):
-                setattr(self, key, DictAsObject(value))
-            else:
-                setattr(self, key, value)
+            setattr(self, key, value)
+            # if isinstance(value, dict):
+            #     setattr(self, key, DictAsObject(value))
+            # else:
+            #     setattr(self, key, value)
 
     def __getattr__(self, item: str) -> Any:
         try:

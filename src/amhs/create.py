@@ -1,8 +1,9 @@
 from mysql import connector
 from loguru import logger as log
 class CreateDB:
-    def __init__(self,config) -> None:
-        self.config = config.mysql_conection
+    def __init__(self,config):
+        self.config = config.mysql_connection
+        self.database = config.mysql_database
         self.conn = None
         self.cursor = None
         self.connflag = False
