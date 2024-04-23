@@ -7,5 +7,5 @@ mysql_connection:
 
 mysql_database:
     database: 'amhs'
-    table_names: ['ohtc_map','ohtc_position','transfer_table']
+    table_names: ['ohtc_map','ohtc_position','transfer_table','ohtc_car']
     
