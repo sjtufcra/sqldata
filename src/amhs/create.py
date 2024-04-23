@@ -57,10 +57,38 @@ class CreateDB:
             log.info("database name or table name or table data is None")
             return
         if self.connflag:
-            insert_query = f"INSERT INTO {name}.{table_name} ({', '.join(table_data.keys())}) VALUES ({', '.join(['%s'] * len(table_data),)})"
+            values = []
+            for key,val in table_data.items():
+                values.append(f'`{key}`')
+            keys = ', '.join(values)
+            values_placeholders = ', '.join(['%s'] * len(table_data))
+            insert_query = f"INSERT INTO {name}.{table_name} ({keys}) VALUES ({values_placeholders})"
             values = tuple(table_data.values())
             self.cursor.execute(insert_query,values)
             self.conn.commit()
-            log.info("update table success")
             return
-        
+    
+    # delete table
+    def delete_table(self,name,table_name):
+        if self.connflag:
+            self.cursor.execute(f"SELECT COUNT(*) FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = '{name}' AND TABLE_NAME = '{table_name}'")
+            table_exists = self.cursor.fetchone()[0]
+
+            if table_exists > 0:
+                delete_query = f"DROP TABLE {name}.{table_name}"
+                self.cursor.execute(delete_query)
+            self.conn.commit()
+            self.conn.close()
+            log.info(f"delete table success: {table_name}")
+            return
+    # show tables type 
+    def show_tables(self,name,table_name):
+        if self.connflag:
+            query = f"DESCRIBE {name}.{table_name}"
+            self.cursor.execute(query)
+            typelist = []
+            # 解析并打印字段类型
+            for (column_name, data_type, _, _, _, _) in self.cursor:
+                print(f"{column_name}: {data_type}")
+                typelist.append(data_type)
+            return typelist

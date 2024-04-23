@@ -20,13 +20,13 @@ def main():
 
 def infer_mysql_type(value):
     if value is None:
-        return 'VARCHAR(500)'
+        return 'VARCHAR(255)'
     elif isinstance(value, int):
         return 'INT'
     elif isinstance(value, float):
         return 'FLOAT'
     elif isinstance(value, str):
-        return 'VARCHAR(255)'
+        return 'VARCHAR(600)'
     else:
         raise ValueError('Unsupported data type')
 def get_json_file(db,dbname,path,tablename):
@@ -39,9 +39,15 @@ def get_json_file(db,dbname,path,tablename):
     filedata = data[index.upper()]
     for k,v in enumerate(filedata):
         if k == 0 and v is not None:
+            #delete_table(db,daname,'vehicle') 
+            db.connect()
+            db.delete_table(dbname,tablename)
             create_table(db=db,dbname=dbname,data=v,name=tablename)
             db.connect()
+            db.show_tables(dbname,tablename)
+            db.connect()
         update_table(db,dbname,v,tablename)
+    
 
 def create_table(db,dbname,data,name):
     value = []
@@ -63,9 +69,12 @@ if __name__ == '__main__':
     db,config = main()
     daname = config.mysql_database['database']
     db.create_db(daname)
+    
+
     # create table to db    
     for key, path in enumerate(pathArray):
+        tablename = config.mysql_database['table_names'][key]
         if path.endswith('.json'):
             ph = os.path.abspath(path)
-            get_json_file(db,daname,ph,config.mysql_database['table_names'][key])
-    
+            get_json_file(db,daname,ph,tablename)
+        log.info(f'create table success:{tablename}')

@@ -1,0 +1,16 @@
+2024-04-23 14:48:14.825 | INFO     | create:connect:17 - connect to mysql success
+2024-04-23 14:48:14.825 | INFO     | __main__:main:17 - create db
+2024-04-23 14:48:14.826 | INFO     | create:create_db:29 - create database success
+2024-04-23 14:48:14.872 | INFO     | create:connect:17 - connect to mysql success
+2024-04-23 14:48:14.880 | INFO     | create:delete_table:82 - delete table success: ohtc_map
+2024-04-23 14:48:14.885 | INFO     | create:connect:17 - connect to mysql success
+2024-04-23 14:48:14.893 | INFO     | create:create_table:52 - createtable success
+2024-04-23 14:48:14.897 | INFO     | create:connect:17 - connect to mysql success
+2024-04-23 14:48:14.906 | INFO     | create:connect:17 - connect to mysql success
+2024-04-23 14:48:18.175 | INFO     | __main__:<module>:80 - create table success:ohtc_map
+2024-04-23 14:48:18.857 | INFO     | create:connect:17 - connect to mysql success
+2024-04-23 14:48:18.868 | INFO     | create:delete_table:82 - delete table success: ohtc_position
+2024-04-23 14:48:18.873 | INFO     | create:connect:17 - connect to mysql success
+2024-04-23 14:48:18.879 | INFO     | create:create_table:52 - createtable success
+2024-04-23 14:48:18.886 | INFO     | create:connect:17 - connect to mysql success
+2024-04-23 14:48:18.894 | INFO     | create:connect:17 - connect to mysql success
