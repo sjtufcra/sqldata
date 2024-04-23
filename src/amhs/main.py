@@ -43,8 +43,9 @@ def get_json_file(db,dbname,path,tablename):
             db.connect()
             db.delete_table(dbname,tablename)
             create_table(db=db,dbname=dbname,data=v,name=tablename)
-            db.connect()
-            db.show_tables(dbname,tablename)
+            # debugger
+            # db.connect()
+            # db.show_tables(dbname,tablename)
             db.connect()
         update_table(db,dbname,v,tablename)
     

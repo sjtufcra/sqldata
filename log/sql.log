@@ -14,3 +14,11 @@
 2024-04-23 14:48:18.879 | INFO     | create:create_table:52 - createtable success
 2024-04-23 14:48:18.886 | INFO     | create:connect:17 - connect to mysql success
 2024-04-23 14:48:18.894 | INFO     | create:connect:17 - connect to mysql success
+2024-04-23 14:49:15.081 | INFO     | __main__:<module>:80 - create table success:ohtc_position
+2024-04-23 14:49:15.094 | INFO     | create:connect:17 - connect to mysql success
+2024-04-23 14:49:15.100 | INFO     | create:delete_table:82 - delete table success: transfer_table
+2024-04-23 14:49:15.106 | INFO     | create:connect:17 - connect to mysql success
+2024-04-23 14:49:15.111 | INFO     | create:create_table:52 - createtable success
+2024-04-23 14:49:15.116 | INFO     | create:connect:17 - connect to mysql success
+2024-04-23 14:49:15.124 | INFO     | create:connect:17 - connect to mysql success
+2024-04-23 14:49:15.619 | INFO     | __main__:<module>:80 - create table success:transfer_table
