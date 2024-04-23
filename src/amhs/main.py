@@ -20,13 +20,13 @@ def main():
 
 def infer_mysql_type(value):
     if value is None:
-        return 'VARCHAR(255)'
+        return 'VARCHAR(600)'
     elif isinstance(value, int):
         return 'INT'
     elif isinstance(value, float):
         return 'FLOAT'
     elif isinstance(value, str):
-        return 'VARCHAR(600)'
+        return 'VARCHAR(255)'
     else:
         raise ValueError('Unsupported data type')
 def get_json_file(db,dbname,path,tablename):
