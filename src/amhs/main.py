@@ -48,7 +48,7 @@ def get_json_file(db,dbname,path,tablename):
             # db.show_tables(dbname,tablename)
             db.connect()
         update_table(db,dbname,v,tablename)
-    
+    log.info(f'update table success: {tablename}')
 
 def create_table(db,dbname,data,name):
     value = []

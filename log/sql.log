@@ -138,3 +138,56 @@
 2024-04-23 18:08:24.833 | INFO     | create:create_table:52 - createtable success
 2024-04-23 18:08:24.839 | INFO     | create:connect:17 - connect to mysql success
 2024-04-23 18:08:25.522 | INFO     | __main__:<module>:81 - create table success:ohtc_car
+2024-04-24 09:20:38.881 | INFO     | create:connect:17 - connect to mysql success
+2024-04-24 09:20:38.881 | INFO     | __main__:main:17 - create db
+2024-04-24 09:20:38.896 | INFO     | create:create_db:29 - create database success
+2024-04-24 09:20:38.943 | INFO     | create:connect:17 - connect to mysql success
+2024-04-24 09:20:39.020 | INFO     | create:delete_table:82 - delete table success: ohtc_map
+2024-04-24 09:20:39.025 | INFO     | create:connect:17 - connect to mysql success
+2024-04-24 09:20:39.041 | INFO     | create:create_table:52 - createtable success
+2024-04-24 09:20:39.046 | INFO     | create:connect:17 - connect to mysql success
+2024-04-24 09:20:42.477 | INFO     | __main__:<module>:81 - create table success:ohtc_map
+2024-04-24 09:20:43.096 | INFO     | create:connect:17 - connect to mysql success
+2024-04-24 09:20:43.113 | INFO     | create:delete_table:82 - delete table success: ohtc_position
+2024-04-24 09:20:43.117 | INFO     | create:connect:17 - connect to mysql success
+2024-04-24 09:20:43.125 | INFO     | create:create_table:52 - createtable success
+2024-04-24 09:20:43.131 | INFO     | create:connect:17 - connect to mysql success
+2024-04-24 09:21:45.648 | INFO     | __main__:<module>:81 - create table success:ohtc_position
+2024-04-24 09:21:45.662 | INFO     | create:connect:17 - connect to mysql success
+2024-04-24 09:21:45.671 | INFO     | create:delete_table:82 - delete table success: transfer_table
+2024-04-24 09:21:45.676 | INFO     | create:connect:17 - connect to mysql success
+2024-04-24 09:21:45.684 | INFO     | create:create_table:52 - createtable success
+2024-04-24 09:21:45.689 | INFO     | create:connect:17 - connect to mysql success
+2024-04-24 09:21:46.308 | INFO     | __main__:<module>:81 - create table success:transfer_table
+2024-04-24 09:21:46.326 | INFO     | create:connect:17 - connect to mysql success
+2024-04-24 15:33:30.623 | INFO     | create:connect:17 - connect to mysql success
+2024-04-24 15:33:30.624 | INFO     | __main__:main:17 - create db
+2024-04-24 15:44:56.761 | INFO     | create:connect:17 - connect to mysql success
+2024-04-24 15:44:56.761 | INFO     | __main__:main:17 - create db
+2024-04-24 15:54:43.221 | INFO     | create:connect:17 - connect to mysql success
+2024-04-24 15:54:43.222 | INFO     | __main__:main:17 - create db
+2024-04-24 15:54:43.224 | INFO     | create:create_db:29 - create database success
+2024-04-24 15:54:43.295 | INFO     | create:connect:17 - connect to mysql success
+2024-04-24 15:54:43.315 | INFO     | create:delete_table:82 - delete table success: ohtc_map
+2024-04-24 15:54:43.319 | INFO     | create:connect:17 - connect to mysql success
+2024-04-24 15:54:43.327 | INFO     | create:create_table:52 - createtable success
+2024-04-24 15:54:43.331 | INFO     | create:connect:17 - connect to mysql success
+2024-04-24 15:54:45.994 | INFO     | __main__:<module>:81 - create table success:ohtc_map
+2024-04-24 15:54:46.599 | INFO     | create:connect:17 - connect to mysql success
+2024-04-24 15:54:46.617 | INFO     | create:delete_table:82 - delete table success: ohtc_position
+2024-04-24 15:54:46.621 | INFO     | create:connect:17 - connect to mysql success
+2024-04-24 15:54:46.628 | INFO     | create:create_table:52 - createtable success
+2024-04-24 15:54:46.633 | INFO     | create:connect:17 - connect to mysql success
+2024-04-24 15:55:35.050 | INFO     | __main__:<module>:81 - create table success:ohtc_position
+2024-04-24 15:55:35.066 | INFO     | create:connect:17 - connect to mysql success
+2024-04-24 15:55:35.077 | INFO     | create:delete_table:82 - delete table success: transfer_table
+2024-04-24 15:55:35.081 | INFO     | create:connect:17 - connect to mysql success
+2024-04-24 15:55:35.087 | INFO     | create:create_table:52 - createtable success
+2024-04-24 15:55:35.091 | INFO     | create:connect:17 - connect to mysql success
+2024-04-24 15:55:35.568 | INFO     | __main__:<module>:81 - create table success:transfer_table
+2024-04-24 15:55:35.588 | INFO     | create:connect:17 - connect to mysql success
+2024-04-24 15:55:35.601 | INFO     | create:delete_table:82 - delete table success: ohtc_car
+2024-04-24 15:55:35.605 | INFO     | create:connect:17 - connect to mysql success
+2024-04-24 15:55:35.614 | INFO     | create:create_table:52 - createtable success
+2024-04-24 15:55:35.618 | INFO     | create:connect:17 - connect to mysql success
+2024-04-24 15:55:36.193 | INFO     | __main__:<module>:81 - create table success:ohtc_car
