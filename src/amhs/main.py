@@ -79,3 +79,5 @@ if __name__ == '__main__':
             ph = os.path.abspath(path)
             get_json_file(db,daname,ph,tablename)
         log.info(f'create table success:{tablename}')
+    
+    log.info("finsh create table!") 
