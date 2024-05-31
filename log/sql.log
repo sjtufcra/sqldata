@@ -254,3 +254,35 @@
 2024-05-30 11:17:26.955 | INFO     | __main__:get_json_file:51 - update table success: ohtc_car
 2024-05-30 11:17:26.956 | INFO     | __main__:<module>:81 - create table success:ohtc_car
 2024-05-30 11:17:26.956 | INFO     | __main__:<module>:83 - finsh create table!
+2024-05-31 16:05:33.981 | INFO     | create:connect:17 - connect to mysql success
+2024-05-31 16:05:33.982 | INFO     | __main__:main:17 - create db
+2024-05-31 16:10:03.599 | INFO     | create:create_db:29 - create database success
+2024-05-31 16:10:03.651 | INFO     | create:connect:17 - connect to mysql success
+2024-05-31 16:10:03.704 | INFO     | create:delete_table:82 - delete table success: ohtc_map
+2024-05-31 16:10:03.709 | INFO     | create:connect:17 - connect to mysql success
+2024-05-31 16:10:03.729 | INFO     | create:create_table:52 - createtable success
+2024-05-31 16:10:03.733 | INFO     | create:connect:17 - connect to mysql success
+2024-05-31 16:10:06.451 | INFO     | __main__:get_json_file:51 - update table success: ohtc_map
+2024-05-31 16:10:06.453 | INFO     | __main__:<module>:81 - create table success:ohtc_map
+2024-05-31 16:10:07.058 | INFO     | create:connect:17 - connect to mysql success
+2024-05-31 16:10:07.073 | INFO     | create:delete_table:82 - delete table success: ohtc_position
+2024-05-31 16:10:07.077 | INFO     | create:connect:17 - connect to mysql success
+2024-05-31 16:10:07.084 | INFO     | create:create_table:52 - createtable success
+2024-05-31 16:10:07.089 | INFO     | create:connect:17 - connect to mysql success
+2024-05-31 16:11:03.568 | INFO     | __main__:get_json_file:51 - update table success: ohtc_position
+2024-05-31 16:11:03.678 | INFO     | __main__:<module>:81 - create table success:ohtc_position
+2024-05-31 16:11:03.692 | INFO     | create:connect:17 - connect to mysql success
+2024-05-31 16:11:03.698 | INFO     | create:delete_table:82 - delete table success: transfer_table
+2024-05-31 16:11:03.703 | INFO     | create:connect:17 - connect to mysql success
+2024-05-31 16:11:03.713 | INFO     | create:create_table:52 - createtable success
+2024-05-31 16:11:03.719 | INFO     | create:connect:17 - connect to mysql success
+2024-05-31 16:11:04.243 | INFO     | __main__:get_json_file:51 - update table success: transfer_table
+2024-05-31 16:11:04.244 | INFO     | __main__:<module>:81 - create table success:transfer_table
+2024-05-31 16:11:04.262 | INFO     | create:connect:17 - connect to mysql success
+2024-05-31 16:11:04.271 | INFO     | create:delete_table:82 - delete table success: ohtc_car
+2024-05-31 16:11:04.275 | INFO     | create:connect:17 - connect to mysql success
+2024-05-31 16:11:04.287 | INFO     | create:create_table:52 - createtable success
+2024-05-31 16:11:04.292 | INFO     | create:connect:17 - connect to mysql success
+2024-05-31 16:11:04.891 | INFO     | __main__:get_json_file:51 - update table success: ohtc_car
+2024-05-31 16:11:04.892 | INFO     | __main__:<module>:81 - create table success:ohtc_car
+2024-05-31 16:11:04.892 | INFO     | __main__:<module>:83 - finsh create table!
